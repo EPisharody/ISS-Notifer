@@ -1,5 +1,5 @@
 # ISS-Notifer
-A simple GUI created using the Python Tkinter library that tells the user if the ISS is overhead. The user inputs a city and the application will tell the user if the ISS is currently over that city.
+A simple GUI created using the Python Tkinter library that tells the user if the ISS is overhead. The user inputs a city name and the application will tell the user if the ISS is currently over that city.
 
 # Technologies Used
 * Python
